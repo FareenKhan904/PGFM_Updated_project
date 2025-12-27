@@ -11,7 +11,7 @@
                     <!-- Header with Gradient -->
                     <div class="card-header border-0 text-white text-center py-4" style="background: linear-gradient(135deg, #2563eb 0%, #4f46e5 50%, #7c3aed 100%);">
                         <div class="mb-3">
-                            <img src="{{ asset('images/logo1.png') }}" alt="PGIFM Logo" style="height: 60px; width: auto; filter: brightness(0) invert(1);">
+                            <img src="{{ asset('images/logo1.png') }}" alt="PGIFM Logo" style="height: 75px; width: auto; filter: brightness(0) invert(1);">
                         </div>
                         <h3 class="mb-0 fw-bold">
                             <i class="fas fa-user-plus me-2"></i>{{ __('Register') }}

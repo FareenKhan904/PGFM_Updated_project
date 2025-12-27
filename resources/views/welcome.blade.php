@@ -57,7 +57,10 @@
         <div class="row align-items-center g-5">
             <div class="col-lg-6 mb-4 mb-lg-0">
                 <div class="pe-lg-4">
-                    <h2 class="display-4 fw-bold mb-4" style="background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; line-height: 1.2;">About Dr. Sahar Aslam</h2>
+                    <h2 class="display-4 fw-bold mb-4" style="background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; line-height: 1.2;">
+                        <div>About</div>
+                        <div style="font-size: 0.6em; margin-top: 0.3em;">Dr. Sahar Aslam</div>
+                    </h2>
                     <h4 class="mb-3 fw-semibold" style="color: #2563eb;">Specialist Family Physician</h4>
                     <p class="lead mb-4 fw-semibold" style="color: #4b5563;"><strong>MCPS (Pakistan) | MRCGP INT (South Asia)</strong></p>
                     <ul class="list-unstyled mb-4" style="line-height: 2;">

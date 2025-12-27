@@ -110,7 +110,8 @@
                                     <h5 class="mb-2">Email</h5>
                                     <p class="mb-0">
                                         <a href="mailto:saharaslam@gmail.com" class="text-decoration-none">
-                                            saharaslam@gmail.com
+                                            saharaslam30@gmail.com <br>
+                                            pgifmdr@gmail.com
                                         </a>
                                     </p>
                                 </div>
@@ -173,15 +174,34 @@
                             </div>
                         </div>
 
-                        <!-- Location -->
+                        <!-- LinkedIn -->
                         <div class="mb-4">
                             <div class="d-flex align-items-start">
                                 <div class="flex-shrink-0">
-                                    <i class="fas fa-map-marker-alt fa-2x" style="color: #2563eb;"></i>
+                                    <i class="fab fa-linkedin fa-2x" style="background: linear-gradient(135deg, #2563eb 0%, #4f46e5 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;"></i>
                                 </div>
                                 <div class="flex-grow-1 ms-3">
-                                    <h5 class="mb-2">Location</h5>
-                                    <p class="mb-0">Online based — Pakistan | South Asia | Global Students Welcome</p>
+                                    <h5 class="mb-2">LinkedIn</h5>
+                                    <p class="mb-0"> 
+                                        <a href="https://youtube.com/@drsaharaslam" target="_blank" class="text-decoration-none">
+                                            Dr Sahar Aslam — Exam Mentor & Educator
+                                        </a></p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Facebook -->
+                       <div class="mb-4">
+                           <div class="d-flex align-items-start">
+                              <div class="flex-shrink-0">
+                                  <i class="fab fa-facebook fa-2x" style="background: linear-gradient(135deg, #2563eb 0%, #4f46e5 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;"></i>
+                                </div>
+                                <div class="flex-grow-1 ms-3">
+                                    <h5 class="mb-2">Facebook</h5>
+                                    <p class="mb-0"> 
+                                        <a href="https://youtube.com/@drsaharaslam" target="_blank" class="text-decoration-none">
+                                            Dr Sahar Aslam — Exam Mentor & Educator
+                                        </a></p>
                                 </div>
                             </div>
                         </div>

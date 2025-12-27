@@ -162,7 +162,7 @@
     <aside class="doctor-sidebar" id="doctorSidebar">
         <div class="doctor-sidebar-header">
             <a href="{{ route('welcome') }}" class="d-block text-center">
-                <img src="{{ asset('images/logo1.png') }}" alt="PGIFM Logo" class="mb-2">
+                <img src="{{ asset('images/logo1.png') }}" alt="PGIFM Logo" class="mb-2" style="height: 75px; width: auto; object-fit: contain;">
                 <h5>Doctor Dashboard</h5>
             </a>
         </div>

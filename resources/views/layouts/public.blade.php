@@ -113,7 +113,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
         <div class="container">
             <a class="navbar-brand" href="{{ route('welcome') }}">
-                <img src="{{ asset('images/logo1.png') }}" alt="PGIFM Logo">
+                <img src="{{ asset('images/logo1.png') }}" alt="PGIFM Logo" style="height: 80px; width: auto; object-fit: contain;">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -151,7 +151,7 @@
                         <a class="nav-link" href="{{ route('testimonials') }}">Testimonials</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#faq">FAQ</a>
+                        <a class="nav-link" href="{{ route('welcome') }}#faq">FAQ</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('contact') }}">Contact</a>

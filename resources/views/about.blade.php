@@ -9,7 +9,7 @@
         <div class="row py-5">
             <div class="col-lg-8 mx-auto text-center">
                 <h1 class="display-4 fw-bold mb-4">Dr. Sahar Aslam</h1>
-                <p class="lead mb-2">Consultant Family Medicine Specialist</p>
+                <p class="lead mb-2">Specialist Family Medicine</p>
                 <p class="mb-0">MCPS F.M (CPSP), MRCGP [INT] RCGP-UK</p>
                 <p class="lead mt-3">Online Medical Educator & Exam mentor</p>
             </div>
@@ -24,7 +24,7 @@
             <div class="col-lg-8 mx-auto">
                 <div class="card border-0 shadow-lg mb-5">
                     <div class="card-body p-5">
-                        <h2 class="text-primary mb-4">Consultant Family Medicine Specialist</h2>
+                        <h2 class="text-primary mb-4">Specialist Family Medicine</h2>
                         <div class="row mb-4">
                             <div class="col-md-6">
                                 <h4 class="mb-3">Qualifications</h4>
@@ -50,7 +50,7 @@
                         <p class="lead mb-4">Dr. Sahar Aslam has been dedicatedly working as a family physician for the last 14 years, delivering comprehensive healthcare to patients of all ages.</p>
                         <div class="mb-4">
                             <h5 class="text-primary mb-3"><i class="fas fa-hospital me-2"></i>Current Position</h5>
-                            <p class="mb-0"><strong>Consultant Family Medicine Specialist</strong> - Combined Military Hospital (CMH) Gilgit</p>
+                            <p class="mb-0"><strong>Specialist Family Medicine</strong> - Combined Military Hospital (CMH) Gilgit</p>
                         </div>
                         <div class="mb-4">
                             <h5 class="text-primary mb-3"><i class="fas fa-history me-2"></i>Previous Positions</h5>
