@@ -109,7 +109,7 @@
                                 <div class="flex-grow-1 ms-3">
                                     <h5 class="mb-2">Email</h5>
                                     <p class="mb-0">
-                                        <a href="mailto:saharaslam@gmail.com" class="text-decoration-none">
+                                        <a href="mailto:saharaslam30@gmail.com" class="text-decoration-none">
                                             saharaslam30@gmail.com <br>
                                             pgifmdr@gmail.com
                                         </a>
@@ -149,8 +149,8 @@
                                 <div class="flex-grow-1 ms-3">
                                     <h5 class="mb-2">Instagram</h5>
                                     <p class="mb-0">
-                                        <a href="https://instagram.com/its.saharaslam" target="_blank" class="text-decoration-none">
-                                            @its.saharaslam
+                                        <a href="https://www.instagram.com/dr_sahar.aslam/?utm_source=qr&igsh=MTF6Z21pOGJqY3hoag%3D%3D#" target="_blank" class="text-decoration-none">
+                                        @dr_sahar.aslam
                                         </a>
                                     </p>
                                 </div>
@@ -166,7 +166,7 @@
                                 <div class="flex-grow-1 ms-3">
                                     <h5 class="mb-2">YouTube</h5>
                                     <p class="mb-0">
-                                        <a href="https://youtube.com/@drsaharaslam" target="_blank" class="text-decoration-none">
+                                        <a href="https://youtube.com/@pgifmdr?si=DIHoDmFqBybUDmF6" target="_blank" class="text-decoration-none">
                                             Dr Sahar Aslam — Exam Mentor & Educator
                                         </a>
                                     </p>
@@ -183,8 +183,8 @@
                                 <div class="flex-grow-1 ms-3">
                                     <h5 class="mb-2">LinkedIn</h5>
                                     <p class="mb-0"> 
-                                        <a href="https://youtube.com/@drsaharaslam" target="_blank" class="text-decoration-none">
-                                            Dr Sahar Aslam — Exam Mentor & Educator
+                                        <a href="https://www.linkedin.com/in/dr-sahar-aslam-7097b639b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="text-decoration-none">
+                                            Dr.Sahar Aslam - Combined Military Hospital (CMH)
                                         </a></p>
                                 </div>
                             </div>
@@ -199,8 +199,8 @@
                                 <div class="flex-grow-1 ms-3">
                                     <h5 class="mb-2">Facebook</h5>
                                     <p class="mb-0"> 
-                                        <a href="https://youtube.com/@drsaharaslam" target="_blank" class="text-decoration-none">
-                                            Dr Sahar Aslam — Exam Mentor & Educator
+                                        <a href="https://www.facebook.com/share/1EiNsTeCyF/" target="_blank" class="text-decoration-none">
+                                            @Sahar Chaudhary
                                         </a></p>
                                 </div>
                             </div>
